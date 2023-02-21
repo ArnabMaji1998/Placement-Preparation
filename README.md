@@ -1,4 +1,4 @@
-# Placement-Preparation
+# Placement-Preparation Week 1
 1. Write a program to display the series 0,0,2,1,4,2,6,3,8,4,……………………….
 2. Write a program to calculate the power of a number.
 3. Write a program to calculate the sum of n natural numbers.
