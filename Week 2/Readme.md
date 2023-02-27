@@ -1,22 +1,22 @@
- Write a C program to find the sum of digit of a number.
- Write a C program to check whether a number is perfect or not.
-C program to display the sequence AMM, COO, EQQ,……….
-C program to display the sequence ABA, BCB, CDC, DED, ……………….
-C program to count number of digits in an integer.
-C program to reverse a number.
- C program to check whether a number is palindrome or not.
- C program to check whether a number is prime or not.
- C program to find the sum of first n prime numbers.
- Read a number from STDIN, then display the sequence given below:
+1. Write a C program to find the sum of digit of a number.
+2. Write a C program to check whether a number is perfect or not.
+3. C program to display the sequence AMM, COO, EQQ,……….
+4. C program to display the sequence ABA, BCB, CDC, DED, ……………….
+5. C program to count number of digits in an integer.
+6. C program to reverse a number.
+7. C program to check whether a number is palindrome or not.
+8. C program to check whether a number is prime or not.
+9. C program to find the sum of first n prime numbers.
+10. Read a number from STDIN, then display the sequence given below:
 Input: 52934
 Output: A5, B2, C9, D3, E4
- C program to find GCD and LCM of two numbers.
- C program to display prime numbers between two intervals.
- C program to check Armstrong number.
- C program to display Armstrong number between two intervals.
- C program to display factors of a number.
- C Program to make a simple calculator using switch...case.
- C program to check whether a number can be expressed as sum of two prime numbers.
- C program to find the sum of natural numbers using recursion.
- C program to find factorial of a number using recursion.
- C program to find G.C.D using recursion.
+11. C program to find GCD and LCM of two numbers.
+12. C program to display prime numbers between two intervals.
+13. C program to check Armstrong number.
+14. C program to display Armstrong number between two intervals.
+15. C program to display factors of a number.
+16. C Program to make a simple calculator using switch...case.
+17. C program to check whether a number can be expressed as sum of two prime numbers.
+18. C program to find the sum of natural numbers using recursion.
+19. C program to find factorial of a number using recursion.
+20. C program to find G.C.D using recursion.
